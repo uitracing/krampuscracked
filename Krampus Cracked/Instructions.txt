@@ -1,0 +1,3 @@
+- disable anti virus
+
+-make sure you have visual code and directX visuals
